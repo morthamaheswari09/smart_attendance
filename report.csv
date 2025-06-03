@@ -1,0 +1,16 @@
+Session:,"2024 SPRING SEMESTER"
+Course:,"CS112-Data Mining & Data Warehousing"
+Faculty:,"Anuj Agarwal"
+total,5
+start,2025-05-20
+end,2025-05-26
+slno,rollno,name,attended,percent
+1,CSB21001,"Alexy Johnson",2,40
+2,CSB21002,"Emily Smith",4,80
+3,CSB21004,"Sophia Williams",4,80
+4,CSB21005,"Daniel Brown",5,100
+5,CSB21009,"David Wilson",2,40
+6,CSM21003,"Ethan Martinez",3,60
+7,CSM21004,"Olivia Hernandez",5,100
+8,CSM21007,"Alexander Gonzalez",3,60
+9,CSM21011,"James Rodriguez",3,60
